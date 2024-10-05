@@ -1,0 +1,2 @@
+# SmartMirror
+My Graduation Project
